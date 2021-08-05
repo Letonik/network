@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/network/static/css/main.262983c8.chunk.css",
+    "main.js": "/network/static/js/main.ee9ebc75.chunk.js",
+    "main.js.map": "/network/static/js/main.ee9ebc75.chunk.js.map",
+    "runtime-main.js": "/network/static/js/runtime-main.c994a8e3.js",
+    "runtime-main.js.map": "/network/static/js/runtime-main.c994a8e3.js.map",
+    "static/css/2.27dd871e.chunk.css": "/network/static/css/2.27dd871e.chunk.css",
+    "static/js/2.6f1d8f3c.chunk.js": "/network/static/js/2.6f1d8f3c.chunk.js",
+    "static/js/2.6f1d8f3c.chunk.js.map": "/network/static/js/2.6f1d8f3c.chunk.js.map",
+    "static/css/3.34548d0d.chunk.css": "/network/static/css/3.34548d0d.chunk.css",
+    "static/js/3.007127b5.chunk.js": "/network/static/js/3.007127b5.chunk.js",
+    "static/js/3.007127b5.chunk.js.map": "/network/static/js/3.007127b5.chunk.js.map",
+    "static/css/4.3e73fdb3.chunk.css": "/network/static/css/4.3e73fdb3.chunk.css",
+    "static/js/4.54e14df8.chunk.js": "/network/static/js/4.54e14df8.chunk.js",
+    "static/js/4.54e14df8.chunk.js.map": "/network/static/js/4.54e14df8.chunk.js.map",
+    "static/js/5.88ff75f2.chunk.js": "/network/static/js/5.88ff75f2.chunk.js",
+    "static/js/5.88ff75f2.chunk.js.map": "/network/static/js/5.88ff75f2.chunk.js.map",
+    "index.html": "/network/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/network/static/css/2.27dd871e.chunk.css.map",
+    "static/css/3.34548d0d.chunk.css.map": "/network/static/css/3.34548d0d.chunk.css.map",
+    "static/css/4.3e73fdb3.chunk.css.map": "/network/static/css/4.3e73fdb3.chunk.css.map",
+    "static/css/main.262983c8.chunk.css.map": "/network/static/css/main.262983c8.chunk.css.map",
+    "static/js/2.6f1d8f3c.chunk.js.LICENSE.txt": "/network/static/js/2.6f1d8f3c.chunk.js.LICENSE.txt",
+    "static/media/ava.png": "/network/static/media/ava.54d404f4.png",
+    "static/media/logo.80cd8dcd.png": "/network/static/media/logo.80cd8dcd.png",
+    "static/media/App.css": "/network/static/media/main.1ba31578.png",
+    "static/media/preloader.18b9f153.svg": "/network/static/media/preloader.18b9f153.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c994a8e3.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.6f1d8f3c.chunk.js",
+    "static/css/main.262983c8.chunk.css",
+    "static/js/main.ee9ebc75.chunk.js"
+  ]
+}
